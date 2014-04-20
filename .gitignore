@@ -4,3 +4,11 @@
 *.jar
 *.war
 *.ear
+
+*.iml
+.idea/
+.gradle/
+
+out/
+classes/
+
